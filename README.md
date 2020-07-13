@@ -37,10 +37,12 @@
 * **Cadastra pet:**
   _http://localhost:8080/pet_
   
-      {
-      "nome":"James Gosling",
-      "clienteId":1
-      }
+		{
+		"nome": "Juju",
+		"clienteId": {
+		"id": "1"
+		}
+		}
 
 `PUT`
 
